@@ -1,0 +1,18 @@
+.description>textarea {
+    width: 500px;
+    height: 100px;
+    resize: none;
+    outline: none;
+    font-size: 18px;
+}
+
+.title>input {
+    width: 500px;
+    height: 20px;
+    outline: none;
+    font-size: 20px;
+}
+
+.button {
+    display: inline-block;
+}
